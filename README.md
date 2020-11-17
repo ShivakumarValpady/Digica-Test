@@ -24,4 +24,7 @@
       
       
 #### NOTE #### : In the given time duration, I could complete only these tasks. A last portion is left remaining. 
-#### TO-DO ####: 
+
+#### TO-DO ####: The intensity values of the most dominant colors are returned for now. I had to filter out the images using the range of values for red color. Out of the obtained remaining images, I had to find out which image had the maximum intensity of red color value and return it.  This would have been my approach, if there was enough time left, like extra 30 mins. 
+
+Thank you.
