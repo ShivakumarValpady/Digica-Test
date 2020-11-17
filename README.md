@@ -4,4 +4,4 @@
 
 2) Task 2 - Flickr API, SQLite Database 
 
-* hghg
+    * hghg
