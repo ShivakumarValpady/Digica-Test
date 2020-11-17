@@ -6,4 +6,4 @@
 
     * It consists of 3 files - Flickr_CLient.py, SQLite_Client.py, task.py. 
     * In Flickr_Client.py, a class with two functions are written. 
-         *In the first function 'download', if  
+         * In the first function 'download', if  
